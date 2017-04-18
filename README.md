@@ -1,1 +1,1 @@
-# Website project for client
+# Website project for clients
