@@ -203,7 +203,7 @@ a
   color: #32323c;
 }
 #headlines-contact {
-  font-size: 4em;
+  font-size: 2em;
   line-height: 0px;
   // color: #f2f2f2;
   text-align: right;
@@ -250,7 +250,7 @@ a
   width: 0px
 }
 #content1 {
-  background-image: url(img/work.png );
+  background-image: url(img/camera.png );
   background-color: #32323c;
   background-attachment: fixed;
   border: none;
@@ -484,10 +484,11 @@ input, textarea {
   margin-bottom: 1px;
 }
 .headlines div {
-  font-size: 0.22em;
+  font-size: 14px;
   //color: #fefefe;
   font-family: 'Open Sans', sans-serif;
   font-weight: 500;
+  padding-top: 25px;
 }
 .headlines div p {
   margin: 0px;
@@ -969,5 +970,4 @@ animation-duration:2s;
 }
 #contact #resume-box {
 	color: #4f4f4f !important;
-
 }
