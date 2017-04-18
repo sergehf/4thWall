@@ -1,2 +1,1 @@
-# 4thwalls
-test
+# Website project for client
