@@ -94,7 +94,7 @@ $('#item_3').click(function () {
 
 $('#item_4').click(function () {
 			$('body,html').animate({
-				scrollTop: $('#content3').offset().top 
+				scrollTop: $('#content2').offset().top 
 			}, 800);
 			return false;
 		});
