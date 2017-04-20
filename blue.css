@@ -98,7 +98,7 @@ a
   text-align: center;
 }
 #overlay-black {
-  background-color: #32323c;
+  /*background-color: #32323c;*/
   height: 100%;
   position: absolute;
   top: 0;
@@ -164,9 +164,9 @@ a
   transition: all 0.8s ease 0s;
 }
 #content img {
-  border-radius: 90%;
+  /*border-radius: 90%;*/
   float: right;
-  border: 3px solid #e8e9e8;
+  /*border: 3px solid #e8e9e8;*/
   margin-top: 25px;
 }
 .headlines {
@@ -921,6 +921,9 @@ animation-duration:2s;
   text-align: center;
   padding-right: 10px;
 } 
+#about-me-box {
+	margin-top: 50px;
+}
 
 }  
 

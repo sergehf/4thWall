@@ -10,9 +10,13 @@ setTimeout(function() {
 }, 5000);
 
 $.backstretch([
-        "img/background1.jpg"
-      , "img/background2.jpg"
-      , "img/background3.jpg"
+        "img/1.jpg"
+      , "img/2.jpg"
+      , "img/3.jpg"
+      , "img/4.jpg"
+      , "img/5.jpg"
+      , "img/6.jpg"
+      , "img/7.jpg"
      ], {duration: 2500, fade: 750}); 
 
 
