@@ -63,18 +63,18 @@ a
 .navigation-wrapper {
   text-align: center;
 }
-#navigation-name {
+#navigation-name, #item_0 {
   font-size: 2em;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   padding-right: 23%;
-  font-weight: 700;
+  font-weight: 300;
   color: #32323C;
 }
 .navigation-wrapper span {
   padding-right: 15px;
   font-weight: 700;
 }
-#item_1:hover, #item_2:hover, #item_3:hover, #item_4:hover {
+#item_1:hover, #item_2:hover, #item_3:hover, #item_4:hover, #item_0:hover {
   color: #32323c !important;
   -webkit-transition: all 0.5s ease 0s;
   -moz-transition: all 0.5s ease 0s;
@@ -819,7 +819,7 @@ animation-duration:2s;
 .hi-icon-wrap {
   display: none;
 } 
-#navigation-name {
+#navigation-name, #item_0 {
   display: none;
 }
 .navigation-wrapper span {
@@ -941,7 +941,7 @@ animation-duration:2s;
   -o-animation: mymove 0s ease-in 1;
   -ms-animation: mymove 0s ease-in 1;  
 }
-#navigation-name {
+#navigation-name, #item_0 {
   padding-right: 5%;
 }
 .hi-icon-wrap {

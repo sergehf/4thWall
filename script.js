@@ -71,6 +71,12 @@ $('#back-top a').click(function () {
 			return false;
 		});
 
+$('#item_0').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
 $('#item_1, .arrow').click(function () {
 			$('body,html').animate({
 				scrollTop: $('#content').offset().top
