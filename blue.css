@@ -988,7 +988,7 @@ animation-duration:2s;
 	z-index: 1 !important;
 }
 .arrow {
-	top: 200px !important;
+	display: none;
 }
 #content {
 	padding-top: 50px !important;
