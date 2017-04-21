@@ -975,3 +975,7 @@ animation-duration:2s;
 #contact #resume-box {
 	color: #4f4f4f !important;
 }
+.photoCredit {
+	font-size: 0.9em;
+	font-style: italic;
+}
